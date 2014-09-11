@@ -10,7 +10,7 @@
  * and send time measurements and calibration back to the PC
  * using a custom serial protocol.
  *
- * Test setup (Arduino Uno)
+ * Test setup (Arduino Uno, through 5->3.3V level shift)
  *     10 -> SS
  *     11 -> MOSI
  *     12 -> MISO
